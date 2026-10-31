@@ -1,0 +1,34 @@
+ALL PLAYLIST LINKS
+==================
+
+MASTER PLAYLIST
+Master Playlist — https://github.com/ShauryaJoshi1122/m3u8-playlist-collection/raw/refs/heads/main/master.m3u8
+
+ALL CHANNELS
+All Channels — https://iptv-org.github.io/iptv/index.m3u
+
+CATEGORY PLAYLISTS
+Entertainment — https://iptv-org.github.io/iptv/categories/entertainment.m3u
+Movies — https://iptv-org.github.io/iptv/categories/movies.m3u
+News — https://iptv-org.github.io/iptv/categories/news.m3u
+Sports — https://iptv-org.github.io/iptv/categories/sports.m3u
+Documentary — https://iptv-org.github.io/iptv/categories/documentary.m3u
+Music — https://iptv-org.github.io/iptv/categories/music.m3u
+
+COUNTRY PLAYLISTS
+United States — https://iptv-org.github.io/iptv/countries/us.m3u
+United Kingdom — https://iptv-org.github.io/iptv/countries/uk.m3u
+Canada — https://iptv-org.github.io/iptv/countries/ca.m3u
+Australia — https://iptv-org.github.io/iptv/countries/au.m3u
+Vietnam — https://iptv-org.github.io/iptv/countries/vn.m3u
+
+REPOSITORY FILES
+Master playlist — master.m3u8
+All channels pointer — playlists/all-channels.m3u8
+Full named directory — PLAYLIST-LINKS.md
+
+IMPORTANT
+- The master playlist points to the upstream all-channel index; it does not copy or host media.
+- Category and country lists overlap with the all-channel index, so combining all 12 source URLs as separate entries would not create a clean channel-by-channel playlist and may cause duplicates or fail in players that do not support nested playlists.
+- These are playlist index URLs, not direct channel stream URLs.
+- Upstream channel availability and terms may change. Use only streams you are authorized to access.
