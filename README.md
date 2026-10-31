@@ -6,10 +6,12 @@ A lightweight index of public playlist sources, organized as individual M3U8 poi
 
 ## Complete copy-and-paste directory
 
-**[Open PLAYLIST-LINKS.md](PLAYLIST-LINKS.md)** for all 12 current playlist names, their full upstream URLs, and links to the matching files in this repository. The directory also includes a quick-copy block.
+**[Open master.m3u8](master.m3u8)** for one master playlist entry point covering the upstream all-channel index. **[Open ALL-PLAYLISTS.txt](ALL-PLAYLISTS.txt)** for a plain-text copy/paste list of every playlist name and URL. The detailed [PLAYLIST-LINKS.md](PLAYLIST-LINKS.md) also includes links to matching repository files.
 
 ## Contents
 
+- `master.m3u8` — one master playlist entry point to the upstream all-channel index
+- `ALL-PLAYLISTS.txt` — plain-text list of all playlist names and URLs
 - `playlists/all-channels.m3u8` — upstream all-channel index
 - `playlists/categories/` — entertainment, movies, news, sports, documentary, music
 - `playlists/countries/` — US, UK, Canada, Australia, Vietnam
