@@ -1,0 +1,7 @@
+#EXTM3U
+# Master playlist entry point
+# Uses the upstream all-channels index, which is the comprehensive source.
+# Category and country playlists are subsets/overlapping views; concatenating
+# them would duplicate many channels. This file points to the live upstream index.
+#EXTINF:-1,All Channels - Master Index (iptv-org)
+https://iptv-org.github.io/iptv/index.m3u
