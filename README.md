@@ -4,11 +4,16 @@ A lightweight index of public playlist sources, organized as individual M3U8 poi
 
 > **Important:** These files are source pointers, not mirrored channel or movie streams. Each file contains one entry linking to an upstream playlist. Nested-playlist support differs between players; if a player does not open a pointer, add the upstream URL directly. This repository does not host video, audio, channel streams, or movie files.
 
+## Complete copy-and-paste directory
+
+**[Open PLAYLIST-LINKS.md](PLAYLIST-LINKS.md)** for all 12 current playlist names, their full upstream URLs, and links to the matching files in this repository. The directory also includes a quick-copy block.
+
 ## Contents
 
 - `playlists/all-channels.m3u8` — upstream all-channel index
 - `playlists/categories/` — entertainment, movies, news, sports, documentary, music
 - `playlists/countries/` — US, UK, Canada, Australia, Vietnam
+- `PLAYLIST-LINKS.md` — named directory of all current playlist URLs
 
 ## Sources
 
@@ -31,7 +36,7 @@ This collection intentionally excludes third-party movie/TV-on-demand playlist U
 
 ## Playlist directory document
 
-A Word and PDF directory of the current playlist pointers is available in the generated files when downloaded from this conversation. The icons in those documents are generic category/source markers, not official broadcaster logos. This repository currently contains playlist-level pointers, not channel-by-channel logo metadata.
+A Word and PDF directory of the current playlist pointers is available in the generated files when downloaded from the conversation. The icons in those documents are generic category/source markers, not official broadcaster logos. This repository currently contains playlist-level pointers, not channel-by-channel logo metadata.
 
 ## Use
 
